@@ -1,0 +1,72 @@
+[
+    {
+        "name": "meena Y",
+        "email": "e22ai009@shanmugha.edu.in",
+        "password": "scrypt:32768:8:1$krMaBAGk9QcdSjt0$fadf980a12ef2d7d3d6dbffdf7ee31a4713f12bb461853cded48ba3bcc548cfa479d98c0b993cb37b371a0ef04441ca3dfd973d7cce7255af76cb2a337f47d88",
+        "role": "user",
+        "allowed_modules": [
+            "restaurants",
+            "linkedin-articles"
+        ],
+        "createdAt": "2026-02-10 09:53:25.590458",
+        "settings": {
+            "theme": "dark",
+            "notifications": true
+        },
+        "_id": "698ab2bf917f7496a25a7885"
+    },
+    {
+        "name": "meena Y",
+        "email": "e22ai009@shanmugha.edu.in",
+        "password": "scrypt:32768:8:1$G2zF2kJ41s15XBvF$826db716dad7e1d656971dd76e728eccf492a83e6da8033cb3008e719d7e9ef51cd8d75602698ce0dcf3df50e53ddabe4bcfcced2c030d8a4a3533d7bd8ef551",
+        "role": "user",
+        "allowed_modules": [
+            "restaurants",
+            "twitter",
+            "youtube"
+        ],
+        "createdAt": "2026-02-10 09:53:27.140195",
+        "settings": {
+            "theme": "dark",
+            "notifications": true
+        },
+        "_id": "698ab2c1917f7496a25a7886"
+    },
+    {
+        "name": "obulaxmi",
+        "email": "e22ai026@shanmugha.edu.in",
+        "password": "scrypt:32768:8:1$XAExr9Vck16ACXj9$9c0a2a03b0bacdf5e9c9c8ce26da75a966980ba726c3b89af35096fc57ea9f9f400e9af97875eeb7dc5129711c20e6bb67d0d795b185c5585acfb302f30aa534",
+        "role": "user",
+        "allowed_modules": [
+            "reddit",
+            "instagram",
+            "google-maps",
+            "linkedin-jobs",
+            "eauctions"
+        ],
+        "createdAt": "2026-02-10 18:19:37.405352",
+        "settings": {
+            "email": "e22ai026@shanmugha.edu.in",
+            "notifications": true,
+            "theme": "dark",
+            "username": "obulaxmi",
+            "chrome_driver_path": "C:\\Users\\MANIMEGALAI\\.wdm\\drivers\\chromedriver\\win64\\144.0.7559.110\\chromedriver-win32\\chromedriver.exe",
+            "chrome_version": "144",
+            "name": "obulaxmi"
+        },
+        "_id": "698b29634f1426fc0a9a7166"
+    },
+    {
+        "name": "Test Verifier",
+        "email": "test_verify@example.com",
+        "password": "scrypt:32768:8:1$5aC2H1LEQtPIt2Bc$0a488a2d7f7517440a967036ba975b0dea86ad7b7800ace19ce10d14be2df1e75d3dece65becd8601b1c546ea08ed8ae7c12b5423efdd4b799b01aafc3876473",
+        "role": "user",
+        "allowed_modules": [],
+        "createdAt": "2026-02-10 19:10:53.720415",
+        "settings": {
+            "photo_url": "http://example.com/me.jpg",
+            "avatar_type": "bottts"
+        },
+        "_id": "698b3567532c2fef77ff87c5"
+    }
+]

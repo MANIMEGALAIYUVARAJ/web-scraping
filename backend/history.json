@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1773217055,
+    "scraper": "google-maps",
+    "query": "temples in coimbatore",
+    "date": "2026-03-11 13:47",
+    "items": 10,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260311_134735.csv"
+  },
+  {
+    "id": 1772774294,
+    "scraper": "google-maps",
+    "query": "vehicle emmision in USA",
+    "date": "2026-03-06 10:48",
+    "items": 4,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260306_104814.csv"
+  },
+  {
+    "id": 1771345957,
+    "scraper": "google-maps",
+    "query": "Finance speakers in Germany",
+    "date": "2026-02-17 22:02",
+    "items": 40,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260217_220237.csv"
+  },
+  {
+    "id": 1771344200,
+    "scraper": "google-maps",
+    "query": "Finance speakers in london",
+    "date": "2026-02-17 21:33",
+    "items": 40,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260217_213320.csv"
+  },
+  {
+    "id": 1771342191,
+    "scraper": "google-maps",
+    "query": "Finance speakers in USA",
+    "date": "2026-02-17 20:59",
+    "items": 34,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260217_205951.csv"
+  },
+  {
+    "id": 1771341413,
+    "scraper": "google-maps",
+    "query": "Finance speakers in UK",
+    "date": "2026-02-17 20:46",
+    "items": 39,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260217_204653.csv"
+  },
+  {
+    "id": 1771333451,
+    "scraper": "google-maps",
+    "query": "finance speakers in UK",
+    "date": "2026-02-17 18:34",
+    "items": 43,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260217_183411.csv"
+  },
+  {
+    "id": 1771323081,
+    "scraper": "google-maps",
+    "query": "finance speakers in UK",
+    "date": "2026-02-17 15:41",
+    "items": 10,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260217_154120.csv"
+  },
+  {
+    "id": 1771321700,
+    "scraper": "google-maps",
+    "query": "finance speakers in UK",
+    "date": "2026-02-17 15:18",
+    "items": 10,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260217_151820.csv"
+  },
+  {
+    "id": 1771321570,
+    "scraper": "nexgen",
+    "query": "CEO",
+    "date": "2026-02-17 15:16",
+    "items": 10,
+    "status": "Completed",
+    "csv_path": "/output/nexgen_speakers_20260217_151610.csv"
+  },
+  {
+    "id": 1771321451,
+    "scraper": "nexgen",
+    "query": "CEO",
+    "date": "2026-02-17 15:14",
+    "items": 10,
+    "status": "Completed",
+    "csv_path": "/output/nexgen_speakers_20260217_151411.csv"
+  },
+  {
+    "id": 1771318407,
+    "scraper": "nexgen",
+    "query": "CEO",
+    "date": "2026-02-17 14:23",
+    "items": 66,
+    "status": "Completed",
+    "csv_path": "/output/nexgen_speakers_20260217_142327.csv"
+  },
+  {
+    "id": 1771318194,
+    "scraper": "nexgen",
+    "query": "CEO",
+    "date": "2026-02-17 14:19",
+    "items": 66,
+    "status": "Completed",
+    "csv_path": "/output/nexgen_speakers_20260217_141954.csv"
+  },
+  {
+    "id": 1771317474,
+    "scraper": "leading-authorities",
+    "query": "CEO",
+    "date": "2026-02-17 14:07",
+    "items": 9,
+    "status": "Completed",
+    "csv_path": "/output/leading_authorities_speakers_20260217_140754.csv"
+  }
+]

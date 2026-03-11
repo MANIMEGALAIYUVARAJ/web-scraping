@@ -1,0 +1,33 @@
+# Browser profiles
+chrome-profile/
+temp_profiles/
+backend/gmap_profile/
+backend/instagram_profile/
+backend/reddit_profile/
+backend/temp_profiles/
+
+# Drivers
+chromedriver-win64/
+
+# Logs
+*.log
+results.txt
+verify*.log
+verification*.log
+
+# Node
+frontend/node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+output/
+backend/output/
+backend/scraped_csvs/
+chrome-profile/
+frontend/dist/
+*.log
+*.csv

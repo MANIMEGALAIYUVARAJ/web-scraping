@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1771203395,
+    "scraper": "google-maps",
+    "query": "manufacturing companies in United States of America",
+    "date": "2026-02-16 06:26",
+    "items": 114,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260216_062635.csv"
+  },
+  {
+    "id": 1771202882,
+    "scraper": "google-maps",
+    "query": "manufacturing companies in UK",
+    "date": "2026-02-16 06:18",
+    "items": 118,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260216_061802.csv"
+  },
+  {
+    "id": 1771202218,
+    "scraper": "google-maps",
+    "query": "manufacturing companies in UK",
+    "date": "2026-02-16 06:06",
+    "items": 10,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260216_060658.csv"
+  },
+  {
+    "id": 1771170911,
+    "scraper": "google-maps",
+    "query": "Enterprise in United States of America",
+    "date": "2026-02-15 21:25",
+    "items": 72,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260215_212511.csv"
+  },
+  {
+    "id": 1771170275,
+    "scraper": "google-maps",
+    "query": "Enterprise in UK",
+    "date": "2026-02-15 21:14",
+    "items": 98,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260215_211435.csv"
+  },
+  {
+    "id": 1771170000,
+    "scraper": "google-maps",
+    "query": "Enterprise in UK",
+    "date": "2026-02-15 21:10",
+    "items": 97,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260215_211000.csv"
+  },
+  {
+    "id": 1771169126,
+    "scraper": "google-maps",
+    "query": "Enterprise in UK",
+    "date": "2026-02-15 20:55",
+    "items": 10,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260215_205526.csv"
+  },
+  {
+    "id": 1771168957,
+    "scraper": "google-maps",
+    "query": "Enterprise Industries in UK",
+    "date": "2026-02-15 20:52",
+    "items": 4,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260215_205237.csv"
+  },
+  {
+    "id": 1771162919,
+    "scraper": "google-maps",
+    "query": "IT companies in United States",
+    "date": "2026-02-15 19:11",
+    "items": 117,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260215_191159.csv"
+  },
+  {
+    "id": 1771162268,
+    "scraper": "google-maps",
+    "query": "IT companies in United States",
+    "date": "2026-02-15 19:01",
+    "items": 10,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260215_190108.csv"
+  },
+  {
+    "id": 1771161724,
+    "scraper": "google-maps",
+    "query": "IT companies in United States",
+    "date": "2026-02-15 18:52",
+    "items": 10,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260215_185204.csv"
+  },
+  {
+    "id": 1771161341,
+    "scraper": "google-maps",
+    "query": "IT companies in Unites states",
+    "date": "2026-02-15 18:45",
+    "items": 10,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260215_184541.csv"
+  },
+  {
+    "id": 1771161221,
+    "scraper": "google-maps",
+    "query": "IT companies in Unites states",
+    "date": "2026-02-15 18:43",
+    "items": 54,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260215_184341.csv"
+  },
+  {
+    "id": 1771160850,
+    "scraper": "google-maps",
+    "query": "IT companies in Unites states",
+    "date": "2026-02-15 18:37",
+    "items": 10,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260215_183730.csv"
+  },
+  {
+    "id": 1771160047,
+    "scraper": "google-maps",
+    "query": "IT companies in United States",
+    "date": "2026-02-15 18:24",
+    "items": 10,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260215_182407.csv"
+  },
+  {
+    "id": 1771159425,
+    "scraper": "google-maps",
+    "query": "IT companies in United States",
+    "date": "2026-02-15 18:13",
+    "items": 10,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260215_181345.csv"
+  },
+  {
+    "id": 1771158835,
+    "scraper": "google-maps",
+    "query": "IT companies in United States",
+    "date": "2026-02-15 18:03",
+    "items": 10,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260215_180355.csv"
+  },
+  {
+    "id": 1771158828,
+    "scraper": "google-maps",
+    "query": "IT companies in United States",
+    "date": "2026-02-15 18:03",
+    "items": 112,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260215_180348.csv"
+  },
+  {
+    "id": 1771158497,
+    "scraper": "google-maps",
+    "query": "IT companies in United States",
+    "date": "2026-02-15 17:58",
+    "items": 10,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260215_175817.csv"
+  },
+  {
+    "id": 1771158097,
+    "scraper": "google-maps",
+    "query": "IT companies in US country",
+    "date": "2026-02-15 17:51",
+    "items": 10,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260215_175137.csv"
+  },
+  {
+    "id": 1771157745,
+    "scraper": "google-maps",
+    "query": "IT companies in US",
+    "date": "2026-02-15 17:45",
+    "items": 10,
+    "status": "Completed",
+    "csv_path": "/output/google_maps_20260215_174545.csv"
+  },
+  {
+    "id": 1771157644,
+    "scraper": "london-scraper",
+    "query": "CEO",
+    "date": "2026-02-15 17:44",
+    "items": 194,
+    "status": "Completed",
+    "csv_path": "/output/london_speakers_20260215_174404.csv"
+  }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Alice",
+        "email": "alice@example.com",
+        "password": "scrypt:32768:8:1$aaC6goVY54CGfEVE$4294dfa098ccbe0873d4a636430a0d98d5201293afa8d5149b7343cb4938123c089959b7c8bca05b2017686bc44d64cccf99e3fbc8eb51b24063045830d33cd7",
+        "role": "user",
+        "allowed_modules": [],
+        "createdAt": "2026-02-10 19:07:26.099282",
+        "settings": {
+            "name": "Alice",
+            "email": "alice@example.com",
+            "theme": "dark",
+            "notifications": true,
+            "photo_url": "",
+            "avatar_type": ""
+        },
+        "_id": "698b349842e0e22cb4571229"
+    }
+]

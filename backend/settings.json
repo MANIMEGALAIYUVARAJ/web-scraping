@@ -1,0 +1,8 @@
+{
+  "email": "user@example.com",
+  "notifications": true,
+  "theme": "dark",
+  "username": "User",
+  "chrome_driver_path": "C:\\Users\\MANIMEGALAI\\.wdm\\drivers\\chromedriver\\win64\\144.0.7559.110\\chromedriver-win32\\chromedriver.exe",
+  "chrome_version": "144"
+}

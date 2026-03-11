@@ -1,0 +1,9 @@
+flask
+flask-cors
+pandas
+selenium
+requests
+beautifulsoup4
+webdriver-manager
+flask-pymongo
+pymongo
