@@ -55,6 +55,9 @@ npm install
 npm run dev
 ```
 *The frontend will be available at `http://localhost:5173`.*
+<img width="1875" height="890" alt="image" src="https://github.com/user-attachments/assets/72e4056b-8c9c-4fa6-b773-1337b9f5f3ad" />
+<img width="1879" height="903" alt="image" src="https://github.com/user-attachments/assets/d5bf6d72-6c86-4c71-bb60-20b9a24765c3" />
+
 
 ### Option 2: Running with Docker
 
