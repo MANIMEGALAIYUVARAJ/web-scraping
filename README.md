@@ -70,7 +70,8 @@ docker-compose up -d --build
 
  <img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/741d42f2-708e-4d47-86bf-cbc4005f0d70" />
  <img width="1911" height="914" alt="image" src="https://github.com/user-attachments/assets/398e8c01-7798-4eab-a7ef-d32b2b0bbd11" />
-
+ <img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/a102cf54-c8fb-4253-b3b2-f9fad55bca9f" />
+ <img width="1906" height="915" alt="image" src="https://github.com/user-attachments/assets/0a89a947-0afa-47f9-a9ea-880995544ba7" />
 
 
 
