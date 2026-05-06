@@ -68,6 +68,13 @@ docker-compose up -d --build
 ```
 *(If using the newer Docker CLI, use `docker compose up -d --build`)*
 
+ <img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/741d42f2-708e-4d47-86bf-cbc4005f0d70" />
+ <img width="1911" height="914" alt="image" src="https://github.com/user-attachments/assets/398e8c01-7798-4eab-a7ef-d32b2b0bbd11" />
+
+
+
+
+
 ## 📂 Project Structure
 
 ```text
