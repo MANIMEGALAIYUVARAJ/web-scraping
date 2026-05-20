@@ -1,6 +1,6 @@
 # AIOne Scraper 🚀
 
-A comprehensive, full-stack web scraping application built with React, Flask, and MongoDB. AIOne Scraper provides a powerful dashboard to extract, view, and manage data from multiple platforms including Reddit, Instagram, YouTube, LinkedIn, OpenTable, Google Maps, and more.
+A comprehensive, web scraping built with React, Flask, and MongoDB. AIOne Scraper provides a powerful dashboard to extract, view, and manage data from multiple platforms including Reddit, Instagram, YouTube, LinkedIn, OpenTable, Google Maps, and more.
 
 ## ✨ Features
 
